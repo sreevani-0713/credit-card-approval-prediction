@@ -224,7 +224,7 @@ The trained model is deployed using **IBM Watson Machine Learning**, enabling:
 
 ## 📷 Screenshots
 
-Add screenshots of your project here, for example:
+insert screenshots of your project here, for example:
 - Home Page
 - Input Form
 - Prediction Result
